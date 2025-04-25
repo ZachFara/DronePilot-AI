@@ -4,7 +4,6 @@ import time
 from djitellopy import Tello
 import speech_recognition as sr
 import threading
-import streamlit_app
 
 
 # Function to execute drone commands
